@@ -1,7 +1,9 @@
 # react-frontend ????
 
-MERN Stack ???? + reactstrap
-?? (React.js, reactstrap) : https://github.com/shinminchang/react-frontend/tree/master
-?? (Express, MongoDB, Node.js) : https://github.com/shinminchang/express-backend/tree/master
+MERN Stack project + reactstrap
 
-MERN Stack? ??? ??? CRUD ??
+front (React.js, reactstrap) : https://github.com/shinminchang/react-frontend/tree/master
+
+back (Express, MongoDB, Node.js) : https://github.com/shinminchang/express-backend/tree/master
+
+Simple CRUD example using MERN Stack
